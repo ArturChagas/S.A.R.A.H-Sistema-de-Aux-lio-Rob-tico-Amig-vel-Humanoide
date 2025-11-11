@@ -9,7 +9,6 @@ O sistema integra **inteligência artificial, reconhecimento de voz e automaçã
 
 Mais do que um sistema funcional, a S.A.R.A.H. busca **promover bem-estar emocional**, **reduzir a solidão** e **estimular a autonomia** dos usuários, unindo tecnologia e humanidade.
 
----
 
 ## 🧠 Contexto Acadêmico
 
@@ -17,7 +16,6 @@ O projeto faz parte da **pesquisa de mestrado de Artur D’Angelo Chagas** no Pr
 
 A pesquisa foi **aprovada pelo Comitê de Ética em Pesquisa (CEP)** e envolveu **testes observacionais com idosos**, analisando aspectos de **usabilidade, interação e impacto emocional** do robô.
 
----
 
 ## ⚙️ Estrutura Mecânica
 
@@ -31,7 +29,6 @@ Entretanto, a S.A.R.A.H. **não é uma cópia direta** — foram realizadas **ad
 
 Todo o **código, sistema de controle e módulo de voz** foram **desenvolvidos integralmente por Artur D’Angelo Chagas**, com base em tecnologias atuais de IA e integração de hardware.
 
----
 
 ## 🎯 Objetivos
 
@@ -41,7 +38,6 @@ Todo o **código, sistema de controle e módulo de voz** foram **desenvolvidos i
 - Investigar **interação humano-robô** em contextos reais;  
 - Criar uma base sólida para futuras soluções de **tecnologia assistiva e social**.
 
----
 
 ## 🔧 Tecnologias e Componentes
 
@@ -53,7 +49,6 @@ Todo o **código, sistema de controle e módulo de voz** foram **desenvolvidos i
 - Sistema de **lembretes, respostas contextuais e alertas por voz**;  
 - Integração com **dashboards e automações domésticas**.
 
----
 
 ## 🧩 Estrutura do Projeto
 

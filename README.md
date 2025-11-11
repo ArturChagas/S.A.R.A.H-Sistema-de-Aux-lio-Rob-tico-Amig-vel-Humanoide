@@ -1,12 +1,6 @@
 # S.A.R.A.H-Sistema-de-Aux-lio-Rob-tico-Amig-vel-Humanoide
 Robô humanoide assistivo projetado para auxiliar idosos em suas rotinas diárias, promovendo autonomia, interação social e bem-estar, por meio de tecnologias de inteligência artificial e interação por voz.
 
-# 🤖 S.A.R.A.H. – Sistema de Auxílio Robótico Amigável Humanoide
-
-> **Robô humanoide assistivo desenvolvido para auxiliar idosos em suas rotinas diárias, promovendo autonomia, interação social e bem-estar através da inteligência artificial e da interação por voz.**
-
----
-
 ## 💡 Visão Geral
 
 A **S.A.R.A.H. (Sistema de Auxílio Robótico Amigável Humanoide)** é um projeto de **robótica assistiva** desenvolvido com o objetivo de apoiar o envelhecimento saudável por meio da **interação natural entre humanos e máquinas**.

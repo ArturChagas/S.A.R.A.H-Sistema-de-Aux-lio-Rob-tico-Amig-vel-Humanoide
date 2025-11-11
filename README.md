@@ -50,5 +50,14 @@ Todo o **código, sistema de controle e módulo de voz** foram **desenvolvidos i
 - Integração com **dashboards e automações domésticas**.
 
 
-##  Estrutura do Projeto
+
+##  Créditos e Referências
+
+A estrutura mecânica da **S.A.R.A.H.** foi inspirada no projeto **InMoov**, criado por **Gael Langevin**, um robô humanoide open-source amplamente reconhecido no campo da robótica educacional e assistiva.  
+O design original está disponível em: [https://inmoov.fr](https://inmoov.fr)
+
+O projeto **S.A.R.A.H.** adapta e modifica partes do InMoov para propósitos de pesquisa e interação com idosos, conforme descrito na dissertação de mestrado de **Artur D’Angelo Chagas**.
+
+
+##  Licença
 

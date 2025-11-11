@@ -50,7 +50,6 @@ Todo o **código, sistema de controle e módulo de voz** foram **desenvolvidos i
 - Integração com **dashboards e automações domésticas**.
 
 
-
 ##  Créditos e Referências
 
 A estrutura mecânica da **S.A.R.A.H.** foi inspirada no projeto **InMoov**, criado por **Gael Langevin**, um robô humanoide open-source amplamente reconhecido no campo da robótica educacional e assistiva.  
@@ -59,5 +58,39 @@ O design original está disponível em: [https://inmoov.fr](https://inmoov.fr)
 O projeto **S.A.R.A.H.** adapta e modifica partes do InMoov para propósitos de pesquisa e interação com idosos, conforme descrito na dissertação de mestrado de **Artur D’Angelo Chagas**.
 
 
-##  Licença
+##  Galeria
 
+###  Protótipo e Estrutura
+Imagens que mostram as primeiras versões da S.A.R.A.H., sua estrutura física e componentes impressos em 3D.
+
+![SARAH Versão 2](images/Sarah.v2.0.jpeg)
+![Estrutura frontal montada](images/IMG-20220615-WA0036.jpeg)
+![Detalhe do braço articulado](images/IMG-20220615-WA0038.jpeg)
+![Visão lateral do torso](images/IMG-20220616-WA0000.jpeg)
+![Módulo facial em teste](images/IMG-20220616-WA0004.jpeg)
+
+---
+
+###  Testes e Interação
+Fase de testes do módulo de voz **L.I.S.A.**, reconhecimento de fala, e interações reais com usuários durante a fase de validação do projeto.
+
+![Teste de reconhecimento de voz](images/IMG_20230113_013125_782.jpg)
+![Demonstração com participantes](images/IMG-20220731-WA0016.jpeg)
+![Análise de respostas e empatia](images/IMG-20220731-WA0018.jpeg)
+![Interação por comandos de voz](images/IMG-20220616-WA0010.jpeg)
+
+---
+
+###  Eventos e Apresentações
+Registros das apresentações do projeto em feiras, laboratórios e eventos de inovação, como o Sicredi e a Amado Maker.
+
+![Apresentação em evento Sicredi](images/IMG-20220907-WA0000.jpeg)
+![Demonstração pública do protótipo](images/IMG-20220616-WA0004.jpeg)
+![SARAH exposta no laboratório](images/IMG-20220731-WA0018.jpeg)
+![SARAH versão final em exibição](images/Sarah.v.2.jpeg)
+
+---
+
+> *As imagens apresentadas são parte do processo de desenvolvimento e validação do robô S.A.R.A.H., e não devem ser utilizadas para fins comerciais sem autorização do autor.*
+
+---
